@@ -16,6 +16,7 @@ Projects are encouraged to update the repository with their information, includi
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Fairblock Network | Unlocking real web3 applications through encryption toolboxes and MPC networks for EVM and IBC-connected chains| hello@fairblock.network      | 0x8147CF7F76D018f9f84b7dBBcb73DEA10705DB16                 |
 
 **To update this table, please follow these steps:**
 
